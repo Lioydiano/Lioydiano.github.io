@@ -1,0 +1,22 @@
+.paragraphRed {
+    text-align: center;
+    align-self: center;
+    align-content: center;
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.paragraphLime {
+    text-align: center;
+    align-self: center;
+    align-content: center;
+    color: lime;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.titleRed {
+    color: red;
+    border-radius: 15px;
+    background-color: rgb(0, 0, 0);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

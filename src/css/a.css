@@ -1,0 +1,21 @@
+.red-blue {
+    color: red;
+    display: inline-block;
+    text-decoration: none;
+}
+.red-blue:hover {
+    color: blue;
+    text-decoration: blue double;
+    transform: translateY(-10px)
+}
+
+
+.red {
+    color: red;
+    display: inline-block;
+}
+.red:hover {
+    color: blue;
+    text-decoration: blue double;
+    transform: scale(1.2);
+}

@@ -13,6 +13,7 @@
     border: 3px double var(--hrcolor);
     border-radius: 20px;
     font-family: var(font);
+    margin-bottom: 15px;
     text-align: center;
 }
 .intro p, h1 {
@@ -20,5 +21,7 @@
     font-family: var(--font);
 }
 .intro hr {
-    border: 3px double var(--hrcolor);
+    border: 1px double var(--hrcolor);
+    margin-left: 10%;
+    margin-right: 10%;
 }

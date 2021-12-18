@@ -1,1 +1,7 @@
-/* This file is empty */
+#body {
+    background-color: orangered;
+}
+#hr {
+    margin-left: 5%;
+    margin-right: 5%;
+}

@@ -1,0 +1,42 @@
+.preview {
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: gray;
+    border: 1px white solid;
+    padding: 3px;
+    width: 40%;
+}
+.previewMobile {
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: gray;
+    border: 1px white solid;
+    padding: 3px;
+    width: 80%;
+}
+.preview img, .previewMobile img {
+    border-radius: 20px;
+    align-self: center;
+    margin-left: 0.5%;
+    width: 99%;
+}
+.preview figcaption, .previewMobile figcaption {
+    /* Text */
+    color: orangered;
+    align-items: center;
+    align-self: center;
+    text-align: center;
+    text-decoration: none;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    background-color: rgb(29, 29, 29);
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 99%;
+}

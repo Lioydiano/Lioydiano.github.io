@@ -1,0 +1,24 @@
+:root {
+    --font: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    --color: red;
+    --bgcolor: rgb(29, 29, 29);
+    --hrcolor: gray;
+}
+
+
+.intro {
+    align-self: center;
+    align-content: center;
+    background-color: var(--bgcolor);
+    border: 3px double var(--hrcolor);
+    border-radius: 20px;
+    font-family: var(font);
+    text-align: center;
+}
+.intro p, h1 {
+    color: var(--color);
+    font-family: var(--font);
+}
+.intro hr {
+    border: 3px double var(--hrcolor);
+}

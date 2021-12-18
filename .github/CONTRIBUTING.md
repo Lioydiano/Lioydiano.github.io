@@ -1,4 +1,8 @@
 # Contributing
+Here you can find the contributing guidelines.
+
+
+# Teams
 The way of contributing depends on which [`team`](https://github.com/orgs/Lioydiano/teams) you belong to.
 
 ## Journalist
@@ -14,3 +18,9 @@ They can contribute in a few ways:
 
 ## Developer
 The `developers` are those ones who are supposed to improve the site style and functionalities editing the `.js`, `.css` and `.html` files.
+
+
+# User
+If you're not a member of the organization yet, you can contribute using [`issue`](https://github.com/orgs/Lioydiano/issues).
+
+If possible always use the guidelines of the most suitable [`issue template`](https://github.com/Lioydiano/Lioydiano.github.io/tree/main/.github/ISSUE_TEMPLATE).

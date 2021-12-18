@@ -2,7 +2,7 @@
 name: Article change
 about: Propose changes for an article
 title: Article
-labels: ''
+labels: 'Article'
 assignees: FLAK-ZOSO
 
 ---

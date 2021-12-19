@@ -1,12 +1,15 @@
 .red-blue {
-    color: red;
+    color: blue;
     display: inline-block;
     text-decoration: none;
 }
 .red-blue:hover {
     color: blue;
     text-decoration: blue double;
-    transform: translateY(-10px)
+    transform: translateY(-10px);
+}
+.red-blue:active {
+    color: blue;
 }
 
 
@@ -17,5 +20,8 @@
 .red:hover {
     color: blue;
     text-decoration: blue double;
-    transform: scale(1.2);
+}
+.red:active {
+    color: red;
+    text-decoration: red;
 }

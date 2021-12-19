@@ -5,3 +5,15 @@
     margin-left: 5%;
     margin-right: 5%;
 }
+abbr {
+    text-decoration: none;
+}
+#madeWith {
+    width: max-content;
+    margin-left: auto;
+    margin-right: auto;
+    color: red;
+}
+#madeWith p {
+    font-size: x-large;
+}

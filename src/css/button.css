@@ -1,0 +1,9 @@
+.submit {
+    background-color: black;
+    border-radius: 5px;
+    padding-bottom: 2px;
+    padding-top: 2px;
+
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

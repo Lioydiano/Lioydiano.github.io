@@ -1,0 +1,16 @@
+:root {
+    --font: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.textInput {
+    background-color: black;
+    border-radius: 5px;
+
+    font-family: var(--font);
+    color: red;
+}
+
+
+.textArea {
+    font-family: var(--font);
+}

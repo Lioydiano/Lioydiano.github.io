@@ -1,0 +1,30 @@
+#mailBody {
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#strumentDiv {
+    padding-top: 1%; 
+    padding-bottom: 1%;
+}
+#inputDiv {
+    margin-left: auto; 
+    margin-right: auto; 
+    padding: 10px;
+    width: max-content;
+}
+#body {
+    background-color: rgb(255, 60, 0);
+}
+#madeWith {
+    width: max-content;
+    margin-left: auto;
+    margin-right: auto;
+    color: red;
+}
+#madeWith p {
+    font-size: x-large;
+}
+#mailLink {
+    margin-bottom: 2px;
+}

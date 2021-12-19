@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- META -->
+        <meta charset="UTF-8">
+        <meta name="author" content="FLAK-ZOSO">
+        <meta name="keywords" content="HTML, CSS, JavaScript">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <!-- TITLE -->
+        <title>Email</title>
+
+        <!-- ICONS -->
+        <link rel="icon" type="ico" sizes="32x32" href="../img/favicon.ico">
+
+        <!-- Style -->
+        <link rel="stylesheet" href="css/a.css">
+        <link rel="stylesheet" href="css/button.css">
+        <link rel="stylesheet" href="css/div.css">
+        <link rel="stylesheet" href="css/input.css">
+        <link rel="stylesheet" href="css/paragraph.css">
+        <link rel="stylesheet" href="css/email-mobile.css">
+
+        <!-- JavaScript -->
+        <script type="text/javascript" src="js/copyToCache.js"></script>
+        <script type="text/javascript" src="js/getEmailLink.js"></script>
+        <script type="text/javascript" src="js/openLink.js"></script>
+    </head>
+
+    <body id="body">
+        <div id="intro" class="intro">
+            <h1>Email</h1><hr>
+            <p>Qui sotto trovi uno strumento per contattare alcuni membri del progetto.</p>
+        </div>
+
+        <div id="strumentDiv" class="intro">
+            <div id="inputDiv" class="code">
+                <textarea id="mailBody" cols="30" rows="10" placeholder="Corpo della mail. Massima lunghezza: 2000." maxlength="2000"></textarea><br>
+                
+                <button id="getButton" class="submit" type="button">Crea link</button>
+                <button id="copyButton" class="submit" type="button">Copia link</button><br>
+                <input id="mailLink" class="textInput" type="text" placeholder="mailto:"><br>
+                <button id="sendButton" class="submit" type="button">Invia email</button>
+            </div>
+        </div>
+
+        <div id="GitHubContacts" class="intro">
+            <h1>Contatti GitHub</h1><hr>
+            <p>Se non vuoi condividere il tuo indirizzo email, puoi sempre trovarci su GitHub, <a class="red-blue" href="https://github.com/Lioydiano" target="_blank">qui</a>.</p>
+        </div>
+
+        <div class="intro">
+            <div id="madeWith" class="square">
+                <p>Made with <b>&hearts;</b> and <b>GitHub</b></p>
+            </div>
+        </div>
+
+        <!-- JavaScript to be loaded after the rest of the body -->
+        <script type="text/javascript" src="js/email.js"></script>
+    </body>
+</html>

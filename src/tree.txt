@@ -1,0 +1,48 @@
+Lioydiano.github.io/
+|
+├── src/
+│   ├── js/
+|   |    ├── copyToCache.js
+|   |    ├── email.js
+|   |    ├── getEmailLink.js
+|   |    ├── index.js
+|   |    ├── mobile.js
+|   |    ├── onResize.js
+|   |    ├── onResizeMobile.js
+|   |    ├── openLink.js
+|   |    └── size.js
+│   |
+│   ├── css/
+|   |    ├── a.css
+|   |    ├── button.css
+|   |    ├── div.css
+|   |    ├── email.css
+|   |    ├── email-mobile.css
+|   |    ├── Il-Lioydiano.css
+|   |    ├── Il-Lioydiano-mobile.css
+|   |    ├── image.css
+|   |    ├── index.css
+|   |    ├── input.css
+|   |    ├── mobile.css
+|   |    └── paragraph.css
+|   |    
+│   ├── scss/
+|   |    └── div.scss
+|   |
+|   ├── .htaccess
+|   ├── email.html
+|   ├── email-mobile.html
+|   ├── Il-Lioydiano.html
+|   ├── Il-Lioydiano-mobile.html
+|   ├── index.html
+|   ├── mobile.html
+|   └── tree.txt
+|   
+├── img/
+|    ├── favicon.ico
+|    ├── Frontend logo.png
+|    ├── JavaScript logo.jpg
+|    ├── Lioy.png
+|    └── Pen and Paper.png
+|
+└── index.html

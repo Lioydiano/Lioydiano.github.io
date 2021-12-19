@@ -18,6 +18,6 @@ window.addEventListener('load', function() {
         let par = document.getElementById('articlesIntro');
         par.innerHTML = `${localStorage.name}, qui trovi degli articoli recenti`;
         par = document.getElementById('pagesIntro');
-        par.innerHTML = `${localStorage.name}, trovi l'intero elenco delle pagine <a class='red' href="pages.html">qui</a>.`;
+        par.innerHTML = `${localStorage.name}, trovi l'intero elenco delle pagine <a class='red' href="pages-mobile.html">qui</a>.`;
     }
 )

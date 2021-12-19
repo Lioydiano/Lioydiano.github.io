@@ -49,10 +49,23 @@
     background-color: rgb(49, 49, 49);
     border-radius: 5px;
     width: max-content;
-}
-.square p {
+
+    /* Text */
     padding-right: 2px;
     padding-left: 2px;
     padding-top: 0px;
     padding-bottom: 1px;
+}
+
+
+.madeWith {
+    width: max-content;
+    margin-left: auto;
+    margin-right: auto;
+    height: fit-content;
+    padding-bottom: 0px;
+    color: red;
+}
+.madeWith p {
+    font-size: x-large;
 }

@@ -1,0 +1,18 @@
+#body  {
+    background-color: orangered;
+}
+#links {
+    display: flex;
+    justify-content: center;
+}
+
+ul {
+    align-self: center;
+    color: red;
+}
+li {
+    padding-left: 10px;
+}
+li a {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

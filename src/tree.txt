@@ -10,6 +10,8 @@ Lioydiano.github.io/
 |   |    ├── onResize.js
 |   |    ├── onResizeMobile.js
 |   |    ├── openLink.js
+|   |    ├── pages.js
+|   |    ├── pages-mobile.js
 |   |    └── size.js
 │   |
 │   ├── css/
@@ -24,6 +26,8 @@ Lioydiano.github.io/
 |   |    ├── index.css
 |   |    ├── input.css
 |   |    ├── mobile.css
+|   |    ├── pages.css
+|   |    ├── pages-mobile.css
 |   |    └── paragraph.css
 |   |    
 │   ├── scss/
@@ -36,6 +40,8 @@ Lioydiano.github.io/
 |   ├── Il-Lioydiano-mobile.html
 |   ├── index.html
 |   ├── mobile.html
+|   ├── pages.html
+|   ├── pages-mobile.html
 |   └── tree.txt
 |   
 ├── img/
@@ -43,6 +49,7 @@ Lioydiano.github.io/
 |    ├── Frontend logo.png
 |    ├── JavaScript logo.jpg
 |    ├── Lioy.png
+|    ├── Lioy.jpg
 |    └── Pen and Paper.png
 |
 └── index.html

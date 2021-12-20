@@ -28,7 +28,8 @@ Lioydiano.github.io/
 |   |    ├── mobile.css
 |   |    ├── pages.css
 |   |    ├── pages-mobile.css
-|   |    └── paragraph.css
+|   |    ├── paragraph.css
+|   |    └── searchbar.css
 |   |    
 │   ├── scss/
 |   |    └── div.scss
@@ -50,6 +51,7 @@ Lioydiano.github.io/
 |    ├── JavaScript logo.jpg
 |    ├── Lioy.png
 |    ├── Lioy.jpg
-|    └── Pen and Paper.png
+|    ├── Pen and Paper.png
+|    └── Search icon.png
 |
 └── index.html

@@ -25,3 +25,9 @@
     color: red;
     text-decoration: red;
 }
+
+
+.gray {
+    color: gray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

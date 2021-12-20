@@ -1,0 +1,40 @@
+.searchbar-container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+.searchbar-container ul {
+    list-style-type: none;
+}
+.searchbar-container ul li a {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-top: -1px; /* Prevent double borders */
+    background-color: #f6f6f6;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px;
+    color: black;
+    display: block;
+    margin-right: 5.5%;
+    margin-left: 5.5%;
+    width: 80%;
+}
+.searchbar-container ul li a:hover {
+    background-color: #eee;
+}
+
+
+.searchbar {
+    background-image: url('../../img/Search\ icon.png');
+    background-position: 10px 12px;
+    background-repeat: no-repeat;
+    background-size: 17px 17px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 12px 20px 12px 40px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}

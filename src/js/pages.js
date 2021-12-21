@@ -11,7 +11,7 @@ document.getElementById('searchbar').addEventListener('focusin', function() {
     let pages = {
         'index': 'Pagina principale',
         'email': 'Contatti email',
-        'Il-Lioydiano': 'Primo articolo'
+        'Il-Lioydiano': 'Articolo: Il Lioy ha un nuovo giornalino'
     };
 
     for (let page in pages) {

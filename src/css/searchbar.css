@@ -5,6 +5,7 @@
 }
 .searchbar-container ul {
     list-style-type: none;
+    margin-left: -1px;
 }
 .searchbar-container ul li a {
     border: 1px solid #ddd;
@@ -26,7 +27,7 @@
 
 
 .searchbar {
-    background-image: url('../../img/Search\ icon.png');
+    background-image: url('../../img/Search icon.png');
     background-position: 10px 12px;
     background-repeat: no-repeat;
     background-size: 17px 17px;

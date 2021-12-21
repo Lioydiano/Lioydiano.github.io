@@ -2,6 +2,8 @@ Lioydiano.github.io/
 |
 ├── src/
 │   ├── js/
+|   |    ├── article.js
+|   |    ├── article-mobile.js
 |   |    ├── copyToCache.js
 |   |    ├── email.js
 |   |    ├── getEmailLink.js

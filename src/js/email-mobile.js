@@ -22,9 +22,9 @@ document.getElementById('sendButton').addEventListener('click', function() {
 
 window.addEventListener('load', function() {
     // onLoad the window will create a redirect if the screen isn't large enough
-    if (mobile())
-        window.location.href = "email-mobile.html";
+    if (laptop())
+        window.location.href = "email.html";
     
     // Adding event listener
-    onResize('email-mobile.html');
+    onResizeMobile('email.html');
 })

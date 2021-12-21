@@ -1,5 +1,19 @@
 window.addEventListener('load', function() {
+        // Name reading
+        let name = null;
+        if (localStorage.getItem('name') === null) {
+            name = prompt('Stai entrando nel sito del Lioydiano. Vuoi dirci il tuo nome?');
+            localStorage.setItem('name', name);
+        }
+    
         document.getElementById('structP').innerHTML = `${localStorage.name}, puoi trovare la struttura del sito <a class="red-blue" href="tree.txt" target="_blank">qui</a>.`;
+        
+        // onLoad the window will create a redirect if the screen is too large
+        if (laptop())
+            window.location.href = "pages.html";
+        
+        // Adding event listener
+        onResizeMobile('pages.html');
     }
 )
 

@@ -25,6 +25,7 @@ document.getElementById('searchbar').addEventListener('focusin', function() {
     let pages = {
         'index': 'Pagina principale',
         'email': 'Contatti email',
+        'privacy': 'Gestione della Privacy',
         'Il-Lioydiano': 'Articolo: Il Lioy ha un nuovo giornalino'
     };
 

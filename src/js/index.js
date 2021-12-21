@@ -9,7 +9,7 @@ window.addEventListener('load', function() {
 
         // Name reading
         let name = null;
-        if (localStorage.getItem('name') === null) {
+        if (localStorage.getItem('name') === null || localStorage.getItem('name') == 'null') {
             name = prompt('Stai entrando nel sito del Lioydiano. Vuoi dirci il tuo nome?');
             localStorage.setItem('name', name);
         }

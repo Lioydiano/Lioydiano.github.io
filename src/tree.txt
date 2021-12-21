@@ -45,6 +45,7 @@ Lioydiano.github.io/
 |   ├── mobile.html
 |   ├── pages.html
 |   ├── pages-mobile.html
+|   ├── privacy.html
 |   └── tree.txt
 |   
 ├── img/

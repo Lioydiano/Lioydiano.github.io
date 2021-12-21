@@ -31,6 +31,7 @@ document.getElementById('searchbar').addEventListener('focusin', function() {
     let pages = {
         'mobile': 'Pagina principale',
         'email-mobile': 'Contatti email',
+        'privacy': 'Gestione della Privacy',
         'Il-Lioydiano-mobile': 'Articolo: Il Lioy ha un nuovo giornalino'
     };
 

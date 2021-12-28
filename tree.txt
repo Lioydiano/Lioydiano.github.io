@@ -34,7 +34,7 @@ Lioydiano.github.io/
 |   |    └── searchbar.css
 |   |    
 │   ├── scss/
-|   |    └── div.scss
+|   |     └── div.scss
 |   |
 |   ├── .htaccess
 |   ├── email.html
@@ -57,4 +57,5 @@ Lioydiano.github.io/
 |    ├── Pen and Paper.png
 |    └── Search icon.png
 |
+├── 404.html
 └── index.html

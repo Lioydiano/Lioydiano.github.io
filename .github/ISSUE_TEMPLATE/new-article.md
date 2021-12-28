@@ -1,6 +1,6 @@
 ---
 name: New Article
-about: Propose changes for an article
+about: Propose a new article
 title: New Article
 labels: 'Article'
 assignees: FLAK-ZOSO

@@ -1,7 +1,7 @@
 ---
 name: Article request
 about: Request a new article
-title: Article
+title: Article request
 labels: 'Article'
 assignees: 'FLAK-ZOSO, Percival006'
 

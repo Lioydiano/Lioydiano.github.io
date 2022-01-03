@@ -21,6 +21,6 @@ The `developers` are those ones who are supposed to improve the site style and f
 
 
 # User
-If you're not a member of the organization yet, you can contribute using [`issue`](https://github.com/orgs/Lioydiano/issues).
+If you're not a member of the organization yet, you can contribute using [`issue`](https://github.com/orgs/Lioydiano/issues)s.
 
 If possible always use the guidelines of the most suitable [`issue template`](https://github.com/Lioydiano/Lioydiano.github.io/tree/main/.github/ISSUE_TEMPLATE).
